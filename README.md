@@ -9,24 +9,3 @@ Text Input: Users can enter any text to generate a QR code.
 QR Code Generation: Generates a QR code from the provided text and saves it as a PNG file.
 QR Code Display: Displays the generated QR code directly in the application window.
 Error Handling: Alerts users if the text input is empty.
-Prerequisites
-
-Ensure you have Python installed on your system. You will also need to install the following libraries:
-
-pyqrcode
-pillow (PIL)
-You can install these libraries using pip:
-
-pip install pyqrcode pillow
-Installation
-
-Clone the repository:
-
-git clone https://github.com/kritts12/kritika_var1
-cd kritika_var1
-Install the required libraries:
-
-pip install pyqrcode pillow
-Usage Run the application:
-
-python qrcode_generator.py
